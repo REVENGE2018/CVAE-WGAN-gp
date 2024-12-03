@@ -1,0 +1,29 @@
+# OS generated files #
+.*.swp
+*.py[cod]
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/*
+static/*
+db.sqlite3
+
+# Build #
+build
+dist
+package.egg-info/
+
+# setuptools_scm generated  #
+package/version.py 
+
+# Development #
+.ipynb_checkpoints/
+notebooks/08_Video.ipynb
+
+#big data
+data/Berea_subpatches.npy
+
